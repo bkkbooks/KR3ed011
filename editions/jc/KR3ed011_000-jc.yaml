@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ed011/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附指南總論
+  hash: sha256:46b28bf912eef731d2d46103e39f85b3fbaa064ad8d48062aa73a7416fa0a888
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed011_jc_000-d13.h1s1}
+  - {type: 'tls:div-start', offset: 5, content: '', id: KR3ed011_jc_000-d13d2, level: 2, head_text: 卷上}
+metadata:
+  title: 太平惠民和劑局方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed011.xml
+hash: sha256:b67c1780246d89617dac12be202615837ed233635a996bf2e928c12cc6296a42
